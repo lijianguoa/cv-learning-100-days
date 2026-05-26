@@ -12,6 +12,23 @@
 
 ---
 
+## 📚 推荐学习资源
+
+### 🎬 视频课程
+- **[OpenCV入门到精通+物体检测项目实战](https://www.bilibili.com/video/BV1oworBHEsF)** - B站最完整的OpenCV图像处理教程，近200集系统课程
+- **[黑马程序员OpenCV入门教程](https://www.bilibili.com/video/BV1Fo4y1d7JL)** - 10小时学会图像处理，适合零基础入门
+- **[OpenCV Python实战入门 - 贾志刚](https://wenku.csdn.net/doc/58bv8gx20g)** - 工业视觉一线专家的系统课程笔记
+- **[OpenCV Course - Full Tutorial with Python](https://www.youtube.com/watch?v=oXlwWbU8l2o)** - freeCodeCamp 3小时完整教程（YouTube）
+
+### 📖 百科与技术文档
+- **[Wikipedia: Digital Image](https://en.wikipedia.org/wiki/Digital_image)** - 数字图像的百科详解
+- **[Wikipedia: RGB Color Model](https://en.wikipedia.org/wiki/RGB_color_model)** - RGB色彩空间原理
+- **[Wikipedia: JPEG](https://en.wikipedia.org/wiki/JPEG)** - JPEG压缩标准技术细节
+- **[OpenCV官方文档](https://docs.opencv.org/)** - 最权威的OpenCV API参考手册
+- **[数字图像处理教程 - 彩色图像处理](https://blog.51cto.com/u_16213596/14467769)** - RGB/HSV色彩空间详解与Python实现
+
+---
+
 ## 📜 历史背景
 
 数字图像的诞生标志着人类记录和传递视觉信息方式的革命性转变。
